@@ -1,0 +1,35 @@
+body {
+    background: content-box radial-gradient(orange, skyblue);
+}
+h1 {
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+.poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: #96CEB4;
+    font-family: "Libre Baskerville",serif;
+    text-align: center;
+}
+.poster2 {
+    font-family: "Caveat",serif;
+    color: #A66E38;
+    text-align: center;
+    font-weight: 100;
+    font-size: 30px;
+    padding-bottom: 25px;
+}
+
+.motivation-img {
+    border-bottom-left-radius: 50%;
+border: whitesmoke 10px double;
+background-clip: content-box;
+    width: 100%;
+    opacity: 70%;
+}
+p {
+    text-align: center;
+    
+}
